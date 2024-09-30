@@ -1,11 +1,11 @@
-[![Matrix SVG](https://i.pinimg.com/originals/8d/fb/70/8dfb7036cdf29e13b850615e639e24d8.gif) 
+[![Matrix SVG](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnYxcng0bmpuMGt2ZzRtcGxvZnZlYzdtNzNlaHYycnRtbDluZDY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.webp) 
 
-### (Welcome), I am Yash 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+### WELCOME, I am Yash 👋
+[![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-gupta/)](https://www.linkedin.com/in/yash-gupta-4285b8312/)
+[![Gmail Badge](https://img.shields.io/badge/-Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashg5577@gmail.com)](mailto:yashg5577@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://Yash-xoxo.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://github.com/Yash-xoxo)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
