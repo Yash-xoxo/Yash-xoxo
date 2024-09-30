@@ -1,12 +1,11 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://steamuserimages-a.akamaihd.net/ugc/800921938566803190/0BD176E6AE8FB240A162C064BDE293C46312CFB9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
-### (Welcome)🙏🏻, I am Yash 👋
+### (Welcome), I am Yash 👋
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
 [![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://Yash-xoxo.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
