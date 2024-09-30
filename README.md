@@ -1,4 +1,4 @@
-[![Matrix SVG](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnYxcng0bmpuMGt2ZzRtcGxvZnZlYzdtNzNlaHYycnRtbDluZDY5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.webp) 
+[![Matrix SVG](https://www.icegif.com/wp-content/uploads/2022/09/icegif-718.gif) 
 
 ### WELCOME, I am Yash 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-gupta/)](https://www.linkedin.com/in/yash-gupta-4285b8312/)
@@ -24,11 +24,13 @@
 
 <br>
 <br>
+<br>
 
-### Things I love:
-- Python <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8ycHgyeGk0bThqamk2Zjc0eTV1b2I1bnAxaDB3eDk4aGNib3VndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4yT8CibjIdIWUsANjZ/giphy.webp" width="30"> 
-- Backend Development <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216eWRzNXp6cjZjdHRneG9kdzloNnkxNTUxMmRmMjE5emRqNXhidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.webp" width="30"> 
-- Linux User <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhycHBxZmJ5NDByZzhwYWFmeHliMmQ4MHViazZubGpkNzJhbmdiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMuU3xRkGus3SYqaqD/giphy.webp" width="30"> 
+# Things I love <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG8ycHgyeGk0bThqamk2Zjc0eTV1b2I1bnAxaDB3eDk4aGNib3VndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4yT8CibjIdIWUsANjZ/giphy.webp" width="40"> :
+
+- Python  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlmaHBhZ2FqYXk0a3ptM3BnY2lleGt3ZnF3ZGQ2aGdoMG5wYnkxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ryKkajMOMjYCQ/giphy.webp" width="40">
+- Backend Development <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216eWRzNXp6cjZjdHRneG9kdzloNnkxNTUxMmRmMjE5emRqNXhidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.webp" width="20"> 
+- Linux User <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NyNHdiNXZuamMxazg0b3V6azRpd2VreTh1ZWhlMmlvcjg3bmJlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W9MrfVxE4s2Zi/giphy.webp" width="30"> 
 
 ### :zap: Github Stats
 <p>
@@ -39,7 +41,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
 
     
 [![Matrix SVG](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd4b3Q3bG50djRvYnVwYTFyZ2JkNWVpdHY3NGl1YzVoZzhzcXR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.webp) 
