@@ -27,7 +27,7 @@
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+- Backend Development <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa216eWRzNXp6cjZjdHRneG9kdzloNnkxNTUxMmRmMjE5emRqNXhidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.webp" width="30"> 
 
 
 ### :zap: Github Stats
@@ -42,4 +42,4 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
+[linkedin]: https://www.linkedin.com/in/yash-gupta-4285b8312/
