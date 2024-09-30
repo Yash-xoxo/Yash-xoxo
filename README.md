@@ -1,4 +1,4 @@
-[![Matrix SVG](https://steamuserimages-a.akamaihd.net/ugc/800921938566803190/0BD176E6AE8FB240A162C064BDE293C46312CFB9/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
+![Matrix SVG](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif) 
 
 ### (Welcome), I am Yash 👋
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
