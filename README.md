@@ -22,7 +22,9 @@
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br>
-
+<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</a>
 <br>
 <br>
 
@@ -41,7 +43,34 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- Streak stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=yash-xoxo&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+
+<!-- WakaTime stats (Dark mode) 
+<div align="center">
+  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+    <img
+        src="https://github-readme-stats-steel-omega.vercel.app/api/wakatime?username=yash-xoxo&layout=compact&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&custom_title=WakaTime%20Stats%20%28Since%20Feb%2024%202024%29"
+        alt="My Wakatime stats"
+      />
+  </a>
+</div>
+-->
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-xoxo&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact)](https://github.com/yash-xoxo/github-readme-stats) -->
 <div align="center"><br>
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
