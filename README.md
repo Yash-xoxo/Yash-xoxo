@@ -36,10 +36,9 @@
 
 ## :zap: Github Stats <img src="https://camo.githubusercontent.com/83122ef836688bfbd15c4e015a1abb3d6af1e588c9433fafd0ab1ed246b24b53/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3830303932313933383536363830333139302f304244313736453641453846423234304131363243303634424445323933433436333132434642392f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" width="50"> 
 
-[![Yash-xoxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-xoxo&theme=nord&show_icons=true&layout=compact)](https://github.com/yash-xoxo/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&count_private=true&exclude_repo=TI-Planet-Riddles-2021&hide=pascal,SourcePawn&langs_count=10&layout=compact&theme=nord)](https://github.com/yash-xoxo/github-readme-stats)
-
+<!-- ### My Github Actions -->
+[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=yash-xoxo&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/yash-xoxo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
