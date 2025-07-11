@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashg5577@gmail.com)](mailto:yashg5577@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://yash-xoxo.github.io/yash-portfolio/)
+- 🎯 Portfolio website: [Portfolio](https://yash-xoxo.github.io/portfoliox/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
