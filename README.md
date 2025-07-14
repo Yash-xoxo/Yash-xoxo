@@ -18,7 +18,7 @@
 <img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="DevOps" width="50px" src="https://raw.githubusercontent.com/github/explore/master/topics/devops/devops.png" />
-<img align="left" alt="Machine Learning" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/ML_Logo.png" />
+<img align="left" alt="Machine Learning" width="50px" src="https://github.com/Yash-xoxo/yash-portfolio/blob/main/assets/img/aws-logo.png" />
 <img align="left" alt="Generative AI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" />
 <img align="left" alt="Full Stack" width="50px" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
 
