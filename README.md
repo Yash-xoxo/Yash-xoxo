@@ -1,10 +1,10 @@
-```
+<!--
 [![Matrix SVG](https://www.icegif.com/wp-content/uploads/2022/09/icegif-718.gif) 
 
 # WELCOME, I am Yash 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-gupta/)](https://www.linkedin.com/in/yash-gupta-4285b8312/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashg5577@gmail.com)](mailto:yashg5577@gmail.com) 
-```
+-->
 
 - 🎯 Portfolio website: [Portfolio](https://yash-xoxo.github.io/yash-main/)
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -23,7 +23,7 @@
 <img align="left" alt="Generative AI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" />
 <img align="left" alt="Full Stack" width="50px" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
 
-```
+<!--
 <br>
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
@@ -41,13 +41,13 @@
 
 ## :zap: Github Stats <img src="https://camo.githubusercontent.com/83122ef836688bfbd15c4e015a1abb3d6af1e588c9433fafd0ab1ed246b24b53/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3830303932313933383536363830333139302f304244313736453641453846423234304131363243303634424445323933433436333132434642392f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" width="50"> 
 
-<!-- ### My Github Actions -->
+### My Github Actions
 [![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=yash-xoxo&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=radical)](https://github.com/yash-xoxo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<!-- Streak stats (Dark mode) -->
+ Streak stats (Dark mode) 
 <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
@@ -57,7 +57,7 @@
   </a>
 </div>
 
-<!-- WakaTime stats (Dark mode) 
+WakaTime stats (Dark mode) 
 <div align="center">
   <a href="https://github.com/qwerty541#gh-dark-mode-only">
     <img
@@ -66,21 +66,21 @@
       />
   </a>
 </div>
--->
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-xoxo&theme=2077" alt="yash-xoxo's github stats" /></a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact)](https://github.com/yash-xoxo/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact)](https://github.com/yash-xoxo/github-readme-stats) 
 <div align="center"><br>
-```
+
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
 
     
 [![Matrix SVG](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd4b3Q3bG50djRvYnVwYTFyZ2JkNWVpdHY3NGl1YzVoZzhzcXR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.webp) 
 
-<!--[website]: -->
+[website]: 
 [linkedin]: https://www.linkedin.com/in/yash-gupta-4285b8312/
