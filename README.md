@@ -1,9 +1,10 @@
+```
 [![Matrix SVG](https://www.icegif.com/wp-content/uploads/2022/09/icegif-718.gif) 
 
 # WELCOME, I am Yash 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-gupta/)](https://www.linkedin.com/in/yash-gupta-4285b8312/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashg5577@gmail.com)](mailto:yashg5577@gmail.com) 
-
+```
 
 - 🎯 Portfolio website: [Portfolio](https://yash-xoxo.github.io/yash-main/)
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -22,7 +23,7 @@
 <img align="left" alt="Generative AI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" />
 <img align="left" alt="Full Stack" width="50px" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
 
-
+```
 <br>
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
@@ -74,6 +75,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-xoxo&layout=compact)](https://github.com/yash-xoxo/github-readme-stats) -->
 <div align="center"><br>
+```
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
 
