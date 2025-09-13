@@ -6,71 +6,47 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail_Me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashg5577@gmail.com)](mailto:yashg5577@gmail.com) 
 -->
 
-- 🎯 Portfolio website: [Portfolio](https://yash-xoxo.github.io/yash-main/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+## 🎯 Portfolio website: [Portfolio](https://yash-xoxo.github.io/yash-main/)
+## 💬 Ask me about anything, I am happy to help :smile:
+## 📬 How to reach me: [Let's get in touch!][www.linkedin.com/in/yash-gupta-4285b8312]
+
+---
 
 ## Languages and Tools:
 
 <img align="left" alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
-
 <img align="left" alt="ANACONDA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
-
 
 <img align="left" alt="AS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 
-
 <img align="left" alt="AJS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 
-
 <img align="left" alt="ANSIBLE" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
-          
 
 <img align="left" alt="APACHE" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
 
-
-
 <img align="left" alt="ARCH" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-
-
 
 <img align="left" alt="ARDUINO" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 
-
-
 <img align="left" alt="BASH" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-
 
 <img align="left" alt="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-
 <img align="left" alt="DART" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
-
-
 
 <img align="left" alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 
-
 <img align="left" alt="GCC" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" />
-
-
 
 <img align="left" alt="GIT" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-
-
 <img align="left" alt="GIT-ACTION" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" />
-
-
 
 <img align="left" alt="GRAFANA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
 
-
-
 <img align="left" alt="HYPER-V" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hyperv/hyperv-original.svg" />
-
 
 <img align="left" alt="JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
@@ -160,9 +136,7 @@
 
 <img align="left" alt="CENTOS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
 
-<img align="left" alt="JENKINS" width="50px"  />
 
-<img align="left" alt="JENKINS" width="50px"  />
 
 
 <!--
