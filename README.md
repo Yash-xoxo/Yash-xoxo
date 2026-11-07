@@ -27,23 +27,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-## 🧑‍💻 About me
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Operations room animation" />
-
-- 🛠️ DevOps engineer who likes making software delivery **boring, repeatable and observable**
-- 🔭 Building a **Proxmox VE + Terraform + Ansible** lab (Proxmox on VMware Workstation)
-- 🐳 Shipping multi-service apps with **Docker Compose → Caddy → Cloudflare**
-- 🔁 Writing **Jenkins** pipelines with **SonarQube** quality gates and test coverage
-- 🌱 Learning **Terraform modules and state**, **Ansible roles**, **AWS architecture** and **observability**
-- 🧪 Exploring **Incus** + [community-scripts](https://github.com/community-scripts/Incus) for one-command self-hosting
-- ⚡ Fun fact: I wrote a toy kernel in Assembly → [**Kernalx**](https://github.com/Yash-xoxo/Kernalx)
-
-> I learn by building and breaking real systems. I care about least-privilege access, clear docs,
-> useful monitoring, and understanding **why** something failed — not just the command that hides the error.
-
-<br clear="right" />
-
 ## 🧰 Tech stack
 
 <div align="center">
@@ -448,26 +431,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Incus/
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260" alt="Animated metrics chart" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yash-xoxo&theme=github_dark" width="100%" alt="Profile details and contribution graph" />
-
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Yash-xoxo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Yash-xoxo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Yash-xoxo&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash-xoxo/Yash-xoxo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash-xoxo/Yash-xoxo/output/github-snake.svg" />
-  <img alt="Contribution snake eating my commit graph" src="https://raw.githubusercontent.com/Yash-xoxo/Yash-xoxo/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 ## 🤝 Connect
 
